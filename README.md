@@ -1,2 +1,2 @@
 # testSENLA
-repository for SENLA test tasks
+Выполненные задания для курсов лежат в master ветке
